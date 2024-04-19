@@ -6,7 +6,7 @@ from medico.models import DatasAbertas
 class Consulta(models.Model):
     status_choices = (
         ('A', 'Agendada'),
-        ('F', 'Finaizada'),
+        ('F', 'Finalizada'),
         ('C', 'Cancelada'),
         ('I', 'Iniciada'),
     )
