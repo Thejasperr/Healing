@@ -12,6 +12,7 @@
 {% endblock 'head' %}
 
 {% block 'body' %}
+{% include "partials/navbar.html" %}
 
 
     <div class="container">
@@ -19,10 +20,11 @@
         <h2><span class="color-dark">Suas consultas</span></h2>
 
         <div class="row">
+            
+                <div class="col-md">
+                    <input type="text" name="especialidades" id="" class="form-control shadow-main-color" placeholder="Especialidades médicas">
+                </div>
 
-            <div class="col-md">
-                <input type="text" name="especialidades" id="" class="form-control shadow-main-color" placeholder="Especialidades médias">
-            </div>
             <div class="col-md">
                 <input type="date" name="data" id="" class="form-control shadow-main-color" placeholder="Data da consulta">
 
