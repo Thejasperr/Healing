@@ -1,0 +1,18 @@
+# Resumos Git e Github
+
+Repositorio para armazenar resumos sobre Git e Github do curso Versonamento de Codigo com Git e Github da [DIO](https://www.dio.me/home).
+
+## 📝 Documentaçao
+- [Documentaçao Git](https://git-scm.com/doc)
+- [Documentaçao Github](https://docs.github.com/)
+## 🖥️ Resumos das Aulas
+| Aulas | Resumos |
+|-------|---------|
+| Gravando Alteraçoes no Repositorio Local | [Resumos]()|
+
+```
+git init
+```
+
+## 🔍 Referencias
+- [DIO]().
